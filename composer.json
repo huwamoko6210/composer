@@ -1,6 +1,6 @@
 {
     "minimum-stability": "dev",
-    "name": "masuipeo/tweet",
+    "name": "gutty/tweet",
     "require": {
         "abraham/twitteroauth": "^1.0"
     },
@@ -8,14 +8,14 @@
     "description": "Simple Twitter Client. This package can only tweet string.",
     "license": ["MIT"],
     "homepage": "https://github.com/masuipeo/tweet",
-    "authors": [ { "name": "masuipeo",
-                   "email": "info@masuipeo.com",
-                   "homepage": "https://masuipeo.com",
+    "authors": [ { "name": "gutty",
+                   "email": "ymgcmsts60@gmail.com",
+                   "homepage": "https://pomupomu.hatenadiary.jp",
                    "role": "Developer" }
     ],
     "support": {
-        "source": "https://github.com/masuipeo/tweet",
-        "issues": "https://github.com/masuipeo/tweet/issues"
+        "source": "https://github.com/huwamoko6210/composer/tree/master/tweet"
+
     },
 
     "autoload": {
