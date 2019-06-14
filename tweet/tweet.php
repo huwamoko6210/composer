@@ -1,6 +1,6 @@
 <?php
 
-namespace Masuipeo\Tweet;
+namespace Gutty\Tweet;
 
 use Abraham\TwitterOAuth\TwitterOAuth;
 
