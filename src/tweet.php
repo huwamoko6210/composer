@@ -26,9 +26,9 @@ class Tweet
         );
 
         if ($this->oauth->getLastHttpCode() == 200) {
-            echo "Success";
+            return "Success";
         } else {
-            echo "Failure";
+            return "Failure";
         }
     }
 }
