@@ -9,7 +9,7 @@
   "license": [
     "MIT"
   ],
-  "homepage": "https://github.com/masuipeo/tweet",
+  "homepage": "https://github.com/huwamoko6210/composer",
   "authors": [
     {
       "name": "gutty",
@@ -19,7 +19,7 @@
     }
   ],
   "support": {
-    "source": "https://github.com/huwamoko6210/composer/tree/master/tweet"
+    "source": "https://github.com/huwamoko6210/composer"
   },
   "autoload": {
     "psr-4": {
